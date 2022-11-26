@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="285" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="REPLENISH" />
+      <item value="method" />
       <item value="Set the value for the minEvictableIdleTimeMillis configuration attribute for pools created with this configuration instance. 形参: minEvictableIdleTimeMillis – The new setting of minEvictableIdleTimeMillis for this configuration instance" />
       <item value="Causes the currently executing thread to sleep (temporarily cease execution) for the specified number of milliseconds, subject to the precision and accuracy of system timers and schedulers. The thread does not lose ownership of any monitors." />
       <item value="Either re-interrupt this method or rethrow the &quot;InterruptedException&quot; that can be caught here." />
