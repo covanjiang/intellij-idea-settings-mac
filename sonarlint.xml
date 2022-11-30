@@ -12,6 +12,11 @@
             <Rule active="false" key="java:S2142" />
           </value>
         </entry>
+        <entry key="java:S2629">
+          <value>
+            <Rule active="false" key="java:S2629" />
+          </value>
+        </entry>
         <entry key="java:S3776">
           <value>
             <Rule active="false" key="java:S3776" />
@@ -20,8 +25,9 @@
       </map>
     </option>
     <rules>
-      <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S2142" />
+      <Rule active="false" key="java:S112" />
+      <Rule active="false" key="java:S2629" />
       <Rule active="false" key="java:S3776" />
     </rules>
   </component>
