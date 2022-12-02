@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="285" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="Advertiser" />
       <item value="REPLENISH" />
       <item value="method" />
       <item value="Set the value for the minEvictableIdleTimeMillis configuration attribute for pools created with this configuration instance. 形参: minEvictableIdleTimeMillis – The new setting of minEvictableIdleTimeMillis for this configuration instance" />
