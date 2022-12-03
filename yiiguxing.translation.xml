@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="285" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="账户级别天历史全部有消耗的数据 范围为4天包含当天 String startDate = DateUtil.getDate(maxPriorDays, DateUtil.YYYYMMDD); String endDate = DateUtil.getDate(0, DateUtil.YYYYMMDD); List&lt;Long&gt; accountIds = toutiaoStatsAccountDailyReportMysqlDao.selectAdvertiserIdsHavingCostByDate(startDate, endDate);" />
       <item value="Advertiser" />
       <item value="REPLENISH" />
       <item value="method" />
