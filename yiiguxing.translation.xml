@@ -29,4 +29,12 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1663559023162" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670163811902" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Indicate that the proxy should be exposed by the AOP framework as a ThreadLocal for retrieval via the org.springframework.aop.framework.AopContext class. Off by default, i.e. no guarantees that AopContext access will work." />
+    </histories>
+  </component>
 </application>
