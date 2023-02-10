@@ -38,13 +38,15 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Noncompliant Code Example" />
+      <item value="Noncompliant Code Example&#10;" />
       <item value="This method deserializes the specified Json into an object of the specified type. This method is useful if the specified object is a generic type. For non-generic objects, use parseObject(String, Class, Feature[]) instead. If you have the Json in a InputStream instead of a String, use parseObject(InputStream, Type, Feature[]) instead. 形参: json – the string from which the object is to be deserialized type – The specific genericized type of src. You can obtain this type by using the TypeReference class. For example, to get the type for Collection&lt;Foo&gt;, you should use: Type type = new TypeReference&lt;Collection&lt;Foo&gt;&gt;(){}.getType(); 返回值: an object of type T from the string" />
       <item value="System" />
       <item value="Indicate that the proxy should be exposed by the AOP framework as a ThreadLocal for retrieval via the org.springframework.aop.framework.AopContext class. Off by default, i.e. no guarantees that AopContext access will work." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
+        <entry key="CHINESE" value="3" />
         <entry key="ENGLISH" value="3" />
       </map>
     </option>
