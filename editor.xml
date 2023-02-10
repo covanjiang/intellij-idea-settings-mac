@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+  </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
@@ -23,7 +26,7 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="SQL.sql.join.cardinality.hints.inner.join" />
+    <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old.java.multiple.params.same.type" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
