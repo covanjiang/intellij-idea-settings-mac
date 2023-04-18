@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="invertedSelectionColor" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="isShowWizardOnWelcome" value="false" />
@@ -11,7 +10,7 @@
     <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-2f181cc5:1830bc67d04:-8000" />
-    <option name="version" value="8.4.1" />
+    <option name="version" value="8.6.3" />
     <option name="showWhatsNew" value="false" />
   </component>
 </application>
