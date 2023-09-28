@@ -34,7 +34,7 @@
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
   </component>
   <component name="Translation.States">
     <histories>
