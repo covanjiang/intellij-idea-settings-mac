@@ -30,6 +30,7 @@
         </entry>
       </map>
     </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule active="false" key="java:S2142" />
       <Rule active="false" key="java:S112" />
