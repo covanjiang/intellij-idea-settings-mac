@@ -1,3 +1,5 @@
 <code_scheme name="Default" version="173">
-  <option name="ENABLE_SECOND_REFORMAT" value="true" />
+  <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="120" />
+  </codeStyleSettings>
 </code_scheme>
