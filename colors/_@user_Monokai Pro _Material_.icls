@@ -98,22 +98,14 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
+        <option name="FOREGROUND" value="939293" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffd866" />
         <option name="BACKGROUND" value="e91e63" />
-      </value>
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NG.EXPRESSIONS">
