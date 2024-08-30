@@ -34,7 +34,8 @@
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="translator" value="GOOGLE" />
+    <option name="ttsEngine" value="GOOGLE" />
   </component>
   <component name="Translation.States">
     <histories>

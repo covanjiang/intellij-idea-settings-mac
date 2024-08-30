@@ -19,4 +19,7 @@
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ViewStatusBar">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
 </keymap>
