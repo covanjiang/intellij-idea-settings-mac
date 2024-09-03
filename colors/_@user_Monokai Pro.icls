@@ -10,7 +10,7 @@
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Inconsolata" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Courier New" />
@@ -26,6 +26,7 @@
   </console-font>
   <colors>
     <option name="CARET_ROW_COLOR" value="514f52" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
     <option name="MODIFIED_TAB_ICON" value="ffe600" />
     <option name="SELECTION_BACKGROUND" value="353a8" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
