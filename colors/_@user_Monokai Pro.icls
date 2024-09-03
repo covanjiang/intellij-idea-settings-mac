@@ -1,0 +1,97 @@
+<scheme name="_@user_Monokai Pro" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.2.1.0.0</property>
+    <property name="originalScheme">Monokai Pro</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">monokai-pro</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="514f52" />
+    <option name="MODIFIED_TAB_ICON" value="ffe600" />
+    <option name="SELECTION_BACKGROUND" value="353a8" />
+    <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="ffe300" />
+    <option name="ScrollBar.Mac.thumbColor" value="8f8009" />
+  </colors>
+  <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="8cff" />
+        <option name="EFFECT_COLOR" value="a9dc76" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="26202" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="a6ac9" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value>
+        <option name="BACKGROUND" value="9a999a" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="797878" />
+        <option name="BACKGROUND" value="2d2a2e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="403e41" />
+        <option name="BACKGROUND" value="f8e71c" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffff00" />
+        <option name="BACKGROUND" value="6adf5" />
+        <option name="ERROR_STRIPE_COLOR" value="ffe1" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="7c0808" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="7a607" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
