@@ -14,6 +14,7 @@
     <entry key="editor.focus.mode.color.light" value="5b595c" />
     <entry key="editor.focus.mode.color.dark" value="5b595c" />
     <entry key="i18n.locale" value="" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
