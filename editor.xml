@@ -88,8 +88,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_INTENTION_BULB" value="false" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER" value="false" />
+    <option name="IS_FOLDING_ENDINGS_SHOWN" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
     <option name="IS_FULL_LINE_HEIGHT_CURSOR" value="true" />
     <option name="IS_HIGHLIGHT_SELECTION_OCCURRENCES" value="true" />
