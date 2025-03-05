@@ -1,0 +1,9 @@
+<application>
+  <component name="MonokaiProConfig">
+    <option name="lastVersionUpdateShown" value="2.0.1" />
+    <option name="themeFolder" value="monokai-pro" />
+    <option name="themeName" value="Monokai Pro" />
+    <option name="tsFirst" value="1740380183" />
+    <option name="tsLast" value="1741144115" />
+  </component>
+</application>
